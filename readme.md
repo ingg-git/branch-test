@@ -9,6 +9,6 @@
 
 ## main에서 merge
 
-- git checkout -b main (main으로 이동)
+- git checkout main (main으로 이동)
 - git pull origin develop1 (merge)
 - git push (github에 푸시)
