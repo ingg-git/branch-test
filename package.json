@@ -73,7 +73,8 @@
 <<<<<<< HEAD
   "homepage": "https://github.com/ingg-git/branch-test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
   }
 =======
   "homepage": "https://github.com/ingg-git/branch-test#readme"
